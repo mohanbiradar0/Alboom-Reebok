@@ -23,6 +23,7 @@ public class cartPageTest extends BaseTest{
 		return new Object [] []
 				{
 			{"shoes",3,"YOUR BAG"},
+			
 			};
 	}
     @Test (dataProvider = "getCartPageHeaderData")
@@ -38,5 +39,6 @@ public class cartPageTest extends BaseTest{
            Assert.assertEquals(accCartpageHeading, cartHeading);
    
        }
+    
     }
 
