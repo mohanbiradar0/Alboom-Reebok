@@ -45,7 +45,7 @@ public class LoginPage
 	}
 	public AccountPage  doLogin(String username, String pwd)
 	{
-		
+		//for redirecting to the login form 
 		eleUtil.doClick(signinbyemailLink, 5);	
 		eleUtil.waitForElementVisible(emailId, 10).sendKeys(username);
 		eleUtil.doSendKeys(password, pwd);
