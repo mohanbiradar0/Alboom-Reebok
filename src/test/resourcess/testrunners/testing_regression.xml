@@ -3,14 +3,14 @@
 
 <suite name="BeyondTheBeach Regression Suite" verbose="10" thread-count="3" parallel="tests">
 
-
+<!-- 
 	<test name="Login Page Test">
 		<parameter name="browser" value="firefox"/>
 		<classes>
 			<class name="com.qa.btb.tests.LoginPageTest" />
 		</classes>
 	</test> 
-<!-- 
+-->
 	<test name="Accounts Page Test">
 		<parameter name="browser" value="firefox"/>
 		<classes>
@@ -18,7 +18,7 @@
 		</classes>
 		
 	</test>
-	
+	<!--
 	<parameter name="browser" value="firefox"/>
 		<test name="Search " Value="chrome"/>"	
 	<test name="Product Result Page Test">
@@ -29,14 +29,14 @@
 	</test>
 	
 	
-	-->
+	
 	<test name="CartPage Result Page Test">
 		<parameter name="browser" value="chrome"/>
 		<classes>
 			<class name="com.qa.btb.tests.cartPageTest" />
 		</classes>
 	</test>	
-	
+	-->
 	 <!--
 	<test name="Registration  Page Test">
 		<parameter name="browser" value="chrome"/>
