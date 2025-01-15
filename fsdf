@@ -1,0 +1,67 @@
+[33mcommit 7526ef173a63ca2a7cdfb2c6d3c88a0e99804f61[m
+Author: unknown <biradarmohan0@gmail.com>
+Date:   Thu Jan 9 23:49:54 2025 +0530
+
+    first commit
+
+[33mcommit 72efb327a2df34811a5a7efd9473545bbdebb774[m
+Author: unknown <biradarmohan0@gmail.com>
+Date:   Fri Jan 10 00:09:21 2025 +0530
+
+    first commit
+
+[33mcommit 85d14b1b7adee15281e76713cf294fd644044a5e[m
+Author: unknown <biradarmohan0@gmail.com>
+Date:   Mon Jan 13 11:22:36 2025 +0530
+
+    added the comment line in loginpage
+
+[33mcommit 66d3a500dba540930f87b70bf3d9a54d6448644f[m
+Author: unknown <biradarmohan0@gmail.com>
+Date:   Mon Jan 13 16:12:01 2025 +0530
+
+    added new checkoutpage
+
+[33mcommit 1281d50f321ec67a48198c34356f590478640710[m[33m ([m[1;31morigin/cartpage[m[33m, [m[1;32mcartpage[m[33m)[m
+Author: unknown <biradarmohan0@gmail.com>
+Date:   Mon Jan 13 16:47:46 2025 +0530
+
+    added locators
+
+[33mcommit 78106b86a1c24deb7bde3a8544ed035526f27910[m[33m ([m[1;32mregistrationpage[m[33m, [m[1;32morigin[m[33m)[m
+Merge: 85d14b1 1281d50
+Author: mohan biradar <75216730+mohanbiradar0@users.noreply.github.com>
+Date:   Mon Jan 13 16:53:36 2025 +0530
+
+    Merge pull request #1 from mohanbiradar0/cartpage
+    
+    added new checkoutpage
+
+[33mcommit 794e2cda555d18a20bd6f698000eb54d8a26ef5d[m
+Author: unknown <biradarmohan0@gmail.com>
+Date:   Mon Jan 13 17:12:47 2025 +0530
+
+    added new order page
+
+[33mcommit 92cf2d82864ebede4da287cebb63156c1a267bfb[m
+Author: mohan biradar <75216730+mohanbiradar0@users.noreply.github.com>
+Date:   Mon Jan 13 17:32:24 2025 +0530
+
+    Create Testing.java
+
+[33mcommit 0999aad952df03df3721a5b9b3937d937e7d8d68[m[33m ([m[1;31morigin/orderpage[m[33m)[m
+Merge: 794e2cd 92cf2d8
+Author: unknown <biradarmohan0@gmail.com>
+Date:   Mon Jan 13 17:43:04 2025 +0530
+
+    Merge branch 'master' into orderpage
+    merging from local to master branch# the commit.
+
+[33mcommit 39d32cfceb8d2f33b89280acc9988c5a7447cec0[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;32morderpage[m[33m)[m
+Merge: 92cf2d8 0999aad
+Author: mohan biradar <75216730+mohanbiradar0@users.noreply.github.com>
+Date:   Mon Jan 13 18:01:22 2025 +0530
+
+    Merge pull request #2 from mohanbiradar0/orderpage
+    
+    Orderpage
